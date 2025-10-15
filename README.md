@@ -1,4 +1,4 @@
-# C_Mini_Projects
+# Professional Logic Building C_Mini_Projects (Teach my Students as a Coding Tutor)
 
 ## 3 Amazing Projects using C Programming
 
@@ -10,4 +10,10 @@
 ### Project 2: Student Grade Calculator
 
 
-### Project 3: Project 3: Number Guessing Game
+### Project 3: Number Guessing Game
+
+
+### Project 4: Number Guessing Game
+
+
+### Project 5: Temperature Converter 
