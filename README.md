@@ -9,7 +9,7 @@
 *Taught by SK Sahil — Coding Tutor & Software Developer*  
 
 Welcome everyone! 👋  
-I’m **SK Sahil**, your coding tutor, currently teaching **300+ students across 3 institutes** with a focus on **C Programming** and **Logic Building**.  
+I’m **SK Sahil**, your coding tutor, currently teaching **100+ students across 3 institutes** with a focus on **C Programming** and **Logic Building**.  
 Through these projects, my goal is to help you **build confidence**, **think logically**, and **improve your problem-solving ability** — the foundation of every great programmer.  
 
 ---
