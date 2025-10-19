@@ -59,6 +59,10 @@ Keep coding, keep exploring, and keep believing in your growth. 🌟
 
 ### 🌡️ Project 5: Temperature Converter
 
+### 🧠 Project 6: ATM Machine Simulation
+
+### 🎯 Project 7: Simple Quiz Game
+
 more projects will come very soon
 ---
 
